@@ -1,1 +1,29 @@
+from ast import increment_lineno
+import pandas as pd
+from sklearn.cluster import KMeans
+import folium
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
 
+
+df = pd.read_csv("/content/drive/MyDrive/report for clustering.csv")
+df.head()
+
+
+x = df[["Lattitude","Longitude"]]
+x.head()
+
+
+model = KMeans(n_clusters=3)
+y_kmeans = model.fit_predict(x)
+
+
+
+df['y'] = y_kmeans
+
+
+df.head()
+
+
+plt.scatter(df['Longitude'], df['Lattitude'],c=df['Accident Severity Index'])
