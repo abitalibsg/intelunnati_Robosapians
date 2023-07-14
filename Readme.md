@@ -3,13 +3,13 @@ Final Report Submission for Intel Unnati Industrial Training
 ### Description: 
 India ranks first in the world for the number of accidents and lives lost on the roads.The country has 1% of the vehicles in the world.Ministry of road transport uses concept of Blackspot to mark these locations to improve road safety on national highways in the country.Here we have collected data of the state kerala.
 ### Data mapping 
-* Selected the state Kerala for analysis.
-* Latitude and longitude of the accident locations are found and latitude and longitude of near by hospitals are found.
-* Using QGIS software ,these locations are plotted on the map of the area.
-* Heatmap of the accidents are also created.
+* We have chosen Kerala as the focus of our analysis.
+* We obtained the latitude and longitude coordinates for the accident locations and identified nearby hospitals using geolocation data.
+* By utilizing QGIS software, we plotted these locations on a map of the area.
+* Additionally, we generated a heatmap to visualize the concentration of accidents.
 
 ### Data processing and visualization
-According to these data a visualization graph is made according to severity of accidents ,accidents in each state etc
+Based on the collected data, we created a visualization graph that depicts the severity of accidents and the number of accidents in each state.
   
 ### Data processing and machine learning
 Latitudinal and longitudinal data are used for machine learning for clustering the points based on severity,fatality and sum of fatal and grievous injury crashes.An unsupervised machine learning model is made using kmeans clustering that will cluster according to above data.
