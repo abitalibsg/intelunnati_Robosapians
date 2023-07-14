@@ -23,4 +23,12 @@ Latitude and longitude data are utilized in machine learning to cluster points b
 After performing the machine learning process, the data was classified into three groups based on severity. The blue group (y=0) represents accidents with lower severity, the orange group (y=1) represents accidents with moderate severity, and the green group (y=2) represents accidents with high severity.
 
 ### Future outcome
-Using these data a software can be developed for warning the drivers of the blackspot location by an alarm system.The proposed software application aims to enhance driver safety by utilizing classified accident data and identifying blackspot locations. Integrated with GPS technology, the software will provide real-time alerts to drivers when they approach or enter high-risk areas. The system can be implemented as a mobile app or integrated into in-car systems, allowing for customizable alarm settings. Regular updates of accident data and user feedback can ensure accuracy and relevance of the blackspot information. By providing timely warnings, the software empowers drivers to exercise caution and take necessary precautions, ultimately reducing the likelihood of accidents in identified blackspot locations. 
+* Using these data a software can be developed for warning the drivers of the blackspot location by an alarm system.The proposed software application aims to 
+  enhance driver safety by utilizing classified accident data and identifying blackspot locations. Integrated with GPS technology, the software will provide real- 
+  time alerts to drivers when they approach or enter high-risk areas. The system can be implemented as a mobile app or integrated into in-car systems, allowing for 
+  customizable alarm settings. Regular updates of accident data and user feedback can ensure accuracy and relevance of the blackspot information. By providing 
+  timely warnings, the software empowers drivers to exercise caution and take necessary precautions, ultimately reducing the likelihood of accidents in identified 
+  blackspot locations.
+* By leveraging the data on nearby hospitals, it is possible to develop a software application that establishes a connection between the airbag system and these 
+  hospitals. In the event of an accident where the airbag is deployed, the software would send a signal to the nearby hospitals, notifying them of the occurrence. 
+  This timely alert can enable hospitals to prepare and respond promptly to provide necessary medical assistance to the accident victims.
