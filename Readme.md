@@ -13,6 +13,7 @@ According to these data a visualization graph is made according to severity of a
   
 ### Data processing and machine learning
 Latitudinal and longitudinal data are used for machine learning for clustering the points based on severity,fatality etc.Using Kmeans clustering these data are clustered
+![machine_learning_severity](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/7c270ca2-f3b1-4f76-9be3-38f9659204d6)
 
 ### Future outcome
 Using these data a software can be developed for warning the drivers of the blackspot location by an alarm system. 
