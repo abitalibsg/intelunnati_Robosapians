@@ -15,7 +15,8 @@ Based on the collected data, we created a visualization graph that depicts the s
 
   
 ### Data processing and machine learning
-Latitudinal and longitudinal data are used for machine learning for clustering the points based on severity,fatality and sum of fatal and grievous injury crashes.An unsupervised machine learning model is made using kmeans clustering that will cluster according to above data.
+
+Latitude and longitude data are utilized in machine learning to cluster points based on severity, fatality, and the total count of fatal and grievous injury crashes. An unsupervised machine learning model, specifically K-means clustering, is employed to create clusters based on the aforementioned data criteria.
 ![machine_learning_severity](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/7c270ca2-f3b1-4f76-9be3-38f9659204d6)
 
 
