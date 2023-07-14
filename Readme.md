@@ -14,7 +14,7 @@ According to these data a visualization graph is made according to severity of a
 ### Data processing and machine learning
 Latitudinal and longitudinal data are used for machine learning for clustering the points based on severity,fatality and sum of fatal and grievous injury crashes.An unsupervised machine learning model is made using kmeans clustering that will cluster according to above data.
 ![machine_learning_severity](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/7c270ca2-f3b1-4f76-9be3-38f9659204d6)
-After the machine learning process data is classified into 3 groups ,blue(0) having less severity,orange(1) having moderate severity and green(2) having high severity
+After the machine learning process data is classified into 3 groups ,blue(y=0) having less severity,orange(y=1) having moderate severity and green(y=2) having high severity
 
 ### Future outcome
 Using these data a software can be developed for warning the drivers of the blackspot location by an alarm system. 
