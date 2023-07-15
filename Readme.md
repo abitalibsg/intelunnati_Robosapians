@@ -7,6 +7,7 @@ India ranks first in the world for the number of accidents and lives lost on the
 * We obtained the latitude and longitude coordinates for the accident locations and identified nearby hospitals using geolocation data.
 * By utilizing QGIS software, we plotted these locations on a map of the area.
 * Additionally, we generated a heatmap to visualize the concentration of accidents.
+  ![heatmap](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/63c2ba25-0fcd-4d35-96dc-52d7055efebf)
 
 ### Data processing and visualization
 Based on the collected data, we created a visualization graph that depicts the severity of accidents and the number of accidents in each state.
