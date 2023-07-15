@@ -8,9 +8,9 @@ India ranks first in the world for the number of accidents and lives lost on the
 * By utilizing QGIS software, we plotted these locations on a map of the area.
 * Additionally, we generated a heatmap with the nearest hospitals to visualize the concentration of accidents.
 
-  <img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/63c2ba25-0fcd-4d35-96dc-52d7055efebf" width="300" height="300">
-  
-<img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/da5037af-82b4-4003-88a7-c2187c308922" width="300" height="300">
+  <img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/63c2ba25-0fcd-4d35-96dc-52d7055efebf" width="300" height="300"> +
+  <img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/c08276b8-3909-4bd0-89c6-d67146a48151" width="300" height="300"> =<img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/da5037af-82b4-4003-88a7-c2187c308922" width="300" height="300">
+
 ### Data processing and visualization
 Based on the collected data, we created a visualization graph that depicts the severity of accidents and the number of accidents in each state.
 
