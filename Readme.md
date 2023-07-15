@@ -6,7 +6,7 @@ India ranks first in the world for the number of accidents and lives lost on the
 * We have chosen Kerala as the focus of our analysis.
 * We obtained the latitude and longitude coordinates for the accident locations and identified nearby hospitals using geolocation data.
 * By utilizing QGIS software, we plotted these locations on a map of the area.
-* Additionally, we generated a heatmap to visualize the concentration of accidents.
+* Additionally, we generated a heatmap with the nearest hospitals to visualize the concentration of accidents.
 
   <img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/63c2ba25-0fcd-4d35-96dc-52d7055efebf" width="300" height="300">
 
