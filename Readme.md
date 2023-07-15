@@ -7,19 +7,22 @@ India ranks first in the world for the number of accidents and lives lost on the
 * We obtained the latitude and longitude coordinates for the accident locations and identified nearby hospitals using geolocation data.
 * By utilizing QGIS software, we plotted these locations on a map of the area.
 * Additionally, we generated a heatmap to visualize the concentration of accidents.
-  ![heatmap](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/63c2ba25-0fcd-4d35-96dc-52d7055efebf)
+
+  <img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/63c2ba25-0fcd-4d35-96dc-52d7055efebf" width="300" height="300">
 
 ### Data processing and visualization
 Based on the collected data, we created a visualization graph that depicts the severity of accidents and the number of accidents in each state.
-![cases_by_each_vehicle](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/8e237d05-3852-44b6-a098-751c4d9a80be)
-![cases_in_each_city_yearwise](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/c8ebfe03-d336-432e-ae60-21f2a165c259)
+
+<img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/8e237d05-3852-44b6-a098-751c4d9a80be" width="600" height="600">
+
+<img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/c8ebfe03-d336-432e-ae60-21f2a165c259" width="400" height="400">
 
   
 ### Data processing and machine learning
 
 Latitude and longitude data are utilized in machine learning to cluster points based on severity, fatality, and the total count of fatal and grievous injury crashes. An unsupervised machine learning model, specifically K-means clustering, is employed to create clusters based on the aforementioned data criteria.
-![machine_learning_severity](https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/7c270ca2-f3b1-4f76-9be3-38f9659204d6)
 
+<img src="https://github.com/abitalibsg/intelunnati_Robosapians/assets/133338993/7c270ca2-f3b1-4f76-9be3-38f9659204d6" width="400" height="400">
 
 After performing the machine learning process, the data was classified into three groups based on severity. The blue group (y=0) represents accidents with lower severity, the orange group (y=1) represents accidents with moderate severity, and the green group (y=2) represents accidents with high severity.
 
